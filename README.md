@@ -40,12 +40,14 @@ task.
 |  |     Summary    |     73    |     76    |     68    |     67    |
 |  |     % > 64    |     41.4%    |     43.3%    |     38.6%    |     38.0%    |
 
-
+---
 **Training Output**
-![](/Fine-tune-Transformer-summarization/blob/master/Image/train_output.png)
+![](/Image/train_output.png)
 
+---
 **Result with different training size**
-![](/Fine-tune-Transformer-summarization/blob/master/Image/MergedLoss.png)
+![](/Image/MergedLoss.png)
 
+---
 **Results of the fine-tune**
 ![](/Image/RougeResult.png)
