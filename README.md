@@ -42,10 +42,10 @@ task.
 
 
 **Training Output**
-![](/Fine-tune-Transformer-summarization/Image/train_output.png)
+![](/Fine-tune-Transformer-summarization/blob/master/Image/train_output.png)
 
 **Result with different training size**
-![](/Fine-tune-Transformer-summarization/Image/MergedLoss.png)
+![](/Fine-tune-Transformer-summarization/blob/master/Image/MergedLoss.png)
 
 **Results of the fine-tune**
-![](/Fine-tune-Transformer-summarization/Image/RougeResult.png)
+![](/Image/RougeResult.png)
